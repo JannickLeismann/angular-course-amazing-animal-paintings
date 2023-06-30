@@ -28,3 +28,8 @@ body {
 .text-right {
     text-align: right;
 }
+
+footer {
+    bottom: 0;
+    width: 100%;
+}

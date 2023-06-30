@@ -5,8 +5,14 @@
 mat-card:hover {
     transform: scale(1.05);
     cursor: pointer;
+    margin: auto;
 }
 
 mat-card {
     transition: transform .2s;
 }
+
+.sort-dropdown {
+    margin-left: 20px;
+}
+
